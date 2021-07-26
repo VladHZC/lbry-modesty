@@ -4,7 +4,7 @@ I wanted to unlock tips, but everytime you do that you lose ranking on LBRY apps
 
 But now I have 1056 claims under my account so I decided to make a few customizations so I could check only the ones I need to take care, to save time, I started ~~surfing~~ skating the internet and found this cool python library called [Rich](https://github.com/willmcgugan/rich) and sorry Brendon I made a little carnival on the Terminal, couldn't hold myself, it also uses `json` and `requests` so if you don't have that `pip` those. 
 
-https://odysee.com/@code:a/modesty:f
+![](https://i.ibb.co/j51svff/ezgif-com-gif-maker.gif)
 
 So, reviewing: 
 
